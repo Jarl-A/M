@@ -25,9 +25,9 @@ body {
 
 .container {
   position: relative;
-  width: 200px;
-  height: 320px;
-  margin-top: 20px;
+  width: 250px;
+  height: 340px;
+  margin-top: 10px;
 }
 
 /* طبقة النجوم الشفافة فوق الخلفية وتحت المحتوى */
@@ -297,4 +297,5 @@ body {
   transition: width 0.1s linear;
 
 }
+
 
